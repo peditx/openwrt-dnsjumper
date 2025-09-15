@@ -1,1 +1,44 @@
-
+[
+  {
+    "name": "Default (ISP DNS)",
+    "dns1": "",
+    "dns2": "",
+    "predefined": true
+  },
+  {
+    "name": "Shecan",
+    "dns1": "178.22.122.100",
+    "dns2": "185.51.200.2",
+    "predefined": true
+  },
+  {
+    "name": "Electro",
+    "dns1": "78.157.42.100",
+    "dns2": "78.157.42.101",
+    "predefined": true
+  },
+  {
+    "name": "Cloudflare",
+    "dns1": "1.1.1.1",
+    "dns2": "1.0.0.1",
+    "predefined": true
+  },
+  {
+    "name": "Google",
+    "dns1": "8.8.8.8",
+    "dns2": "8.8.4.4",
+    "predefined": true
+  },
+  {
+    "name": "Begzar",
+    "dns1": "185.55.226.26",
+    "dns2": "185.55.225.25",
+    "predefined": true
+  },
+  {
+    "name": "Radar",
+    "dns1": "10.202.10.10",
+    "dns2": "10.202.10.11",
+    "predefined": true
+  }
+]
