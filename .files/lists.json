@@ -34,5 +34,342 @@
     "dns1": "10.202.10.10",
     "dns2": "10.202.10.11",
     "predefined": true
+  },
+  {
+    "name": "403 Service",
+    "dns1": "10.202.10.202",
+    "dns2": "10.202.10.102",
+    "predefined": true
+  },
+  {
+    "name": "Hostiran",
+    "dns1": "172.29.2.100",
+    "dns2": "172.29.2.100",
+    "predefined": true
+  },
+  {
+    "name": "Server.ir",
+    "dns1": "194.104.158.48",
+    "dns2": "194.104.158.78",
+    "predefined": true
+  },
+  {
+    "name": "Level 3",
+    "dns1": "209.244.0.3",
+    "dns2": "209.244.0.4",
+    "predefined": true
+  },
+  {
+    "name": "OpenDNS",
+    "dns1": "208.67.222.222",
+    "dns2": "208.67.220.220",
+    "predefined": true
+  },
+  {
+    "name": "OpenDNS - 2",
+    "dns1": "208.67.222.220",
+    "dns2": "208.67.220.222",
+    "predefined": true
+  },
+  {
+    "name": "Yandex",
+    "dns1": "77.88.8.1",
+    "dns2": "77.88.8.8",
+    "predefined": true
+  },
+  {
+    "name": "Norton ConnectSafe Basic",
+    "dns1": "199.85.126.10",
+    "dns2": "199.85.127.10",
+    "predefined": true
+  },
+  {
+    "name": "Level 3 - A",
+    "dns1": "209.244.0.3",
+    "dns2": "209.244.0.4",
+    "predefined": true
+  },
+  {
+    "name": "Level 3 - B",
+    "dns1": "4.2.2.1",
+    "dns2": "4.2.2.2",
+    "predefined": true
+  },
+  {
+    "name": "Level 3 - C",
+    "dns1": "4.2.2.3",
+    "dns2": "4.2.2.4",
+    "predefined": true
+  },
+  {
+    "name": "Level 3 - D",
+    "dns1": "4.2.2.5",
+    "dns2": "4.2.2.6",
+    "predefined": true
+  },
+  {
+    "name": "Comodo Secure",
+    "dns1": "8.26.56.26",
+    "dns2": "8.20.247.20",
+    "predefined": true
+  },
+  {
+    "name": "Dyn",
+    "dns1": "216.146.35.35",
+    "dns2": "216.146.36.36",
+    "predefined": true
+  },
+  {
+    "name": "Norton DNS",
+    "dns1": "198.153.192.1",
+    "dns2": "198.153.194.1",
+    "predefined": true
+  },
+  {
+    "name": "Comodo",
+    "dns1": "156.154.70.22",
+    "dns2": "156.154.71.22",
+    "predefined": true
+  },
+  {
+    "name": "VeriSign Public DNS",
+    "dns1": "64.6.64.6",
+    "dns2": "64.6.65.6",
+    "predefined": true
+  },
+  {
+    "name": "Qwest",
+    "dns1": "205.171.3.65",
+    "dns2": "205.171.2.65",
+    "predefined": true
+  },
+  {
+    "name": "Sprint",
+    "dns1": "204.97.212.10",
+    "dns2": "204.117.214.10",
+    "predefined": true
+  },
+  {
+    "name": "Censurfridns",
+    "dns1": "89.233.43.71",
+    "dns2": "91.239.100.100",
+    "predefined": true
+  },
+  {
+    "name": "DNS WATCH",
+    "dns1": "84.200.69.80",
+    "dns2": "84.200.70.40",
+    "predefined": true
+  },
+  {
+    "name": "FreeDNS",
+    "dns1": "37.235.1.174",
+    "dns2": "37.235.1.177",
+    "predefined": true
+  },
+  {
+    "name": "Sprintlink",
+    "dns1": "199.2.252.10",
+    "dns2": "204.97.212.10",
+    "predefined": true
+  },
+  {
+    "name": "UltraDNS",
+    "dns1": "204.69.234.1",
+    "dns2": "204.74.101.1",
+    "predefined": true
+  },
+  {
+    "name": "Zen Internet",
+    "dns1": "212.23.8.1",
+    "dns2": "212.23.3.1",
+    "predefined": true
+  },
+  {
+    "name": "Orange DNS",
+    "dns1": "195.92.195.94",
+    "dns2": "195.92.195.95",
+    "predefined": true
+  },
+  {
+    "name": "Hurricane Electric",
+    "dns1": "74.82.42.42",
+    "dns2": null,
+    "predefined": true
+  },
+  {
+    "name": "puntCAT",
+    "dns1": "109.69.8.51",
+    "dns2": null,
+    "predefined": true
+  },
+  {
+    "name": "Freenom World",
+    "dns1": "80.80.80.80",
+    "dns2": "80.80.81.81",
+    "predefined": true
+  },
+  {
+    "name": "FDN",
+    "dns1": "80.67.169.12",
+    "dns2": "80.67.169.40",
+    "predefined": true
+  },
+  {
+    "name": "Neustar 1",
+    "dns1": "156.154.70.1",
+    "dns2": "156.154.71.1",
+    "predefined": true
+  },
+  {
+    "name": "Neustar 2",
+    "dns1": "156.154.70.5",
+    "dns2": "156.154.71.5",
+    "predefined": true
+  },
+  {
+    "name": "AdGuard",
+    "dns1": "176.103.130.130",
+    "dns2": "176.103.130.131",
+    "predefined": true
+  },
+  {
+    "name": "Quad9 Security",
+    "dns1": "9.9.9.9",
+    "dns2": "149.112.112.112",
+    "predefined": true
+  },
+  {
+    "name": "Quad9 No Security",
+    "dns1": "9.9.9.10",
+    "dns2": "149.112.112.10",
+    "predefined": true
+  },
+  {
+    "name": "MegaLan",
+    "dns1": "95.111.55.251",
+    "dns2": "95.111.55.250",
+    "predefined": false
+  },
+  {
+    "name": "electro",
+    "dns1": "78.157.42.101",
+    "dns2": "78.157.42.100",
+    "predefined": true
+  },
+  {
+    "name": "mobin new1",
+    "dns1": "76.76.2.0",
+    "dns2": "76.76.10.0",
+    "predefined": true
+  },
+  {
+    "name": "mobin new2",
+    "dns1": "94.140.14.140",
+    "dns2": "94.140.14.141",
+    "predefined": true
+  },
+  {
+    "name": "mobin new3",
+    "dns1": "10.104.88.8",
+    "dns2": "10.104.88.9",
+    "predefined": true
+  },
+  {
+    "name": "call of dutty",
+    "dns1": "185.55.226.26",
+    "dns2": "1.1.1.1",
+    "predefined": true
+  },
+  {
+    "name": "shelter1",
+    "dns1": "91.92.255.160",
+    "dns2": "91.92.255.242",
+    "predefined": true
+  },
+  {
+    "name": "shelter2",
+    "dns1": "45.66.231.67",
+    "dns2": "1.1.1.1",
+    "predefined": true
+  },
+  {
+    "name": "OpenDNS Family",
+    "dns1": "208.67.222.123",
+    "dns2": "208.67.220.123",
+    "predefined": true
+  },
+  {
+    "name": "Norton ConnectSafe Family",
+    "dns1": "199.85.126.30",
+    "dns2": "199.85.127.30",
+    "predefined": true
+  },
+  {
+    "name": "Yandex Family",
+    "dns1": "77.88.8.7",
+    "dns2": "77.88.8.3",
+    "predefined": true
+  },
+  {
+    "name": "CleanBrowsing Family",
+    "dns1": "185.228.168.168",
+    "dns2": "185.228.169.168",
+    "predefined": true
+  },
+  {
+    "name": "CleanBrowsing Adult Filter",
+    "dns1": "185.228.168.10",
+    "dns2": "185.228.169.11",
+    "predefined": true
+  },
+  {
+    "name": "Neustar Family Secure",
+    "dns1": "156.154.70.3",
+    "dns2": "156.154.71.3",
+    "predefined": true
+  },
+  {
+    "name": "Neustar Business Secure",
+    "dns1": "156.154.70.4",
+    "dns2": "156.154.71.4",
+    "predefined": true
+  },
+  {
+    "name": "AdGuard Family",
+    "dns1": "176.103.130.132",
+    "dns2": "176.103.130.134",
+    "predefined": true
+  },
+  {
+    "name": "Norton ConnectSafe Secure",
+    "dns1": "199.85.126.20",
+    "dns2": "199.85.127.20",
+    "predefined": true
+  },
+  {
+    "name": "Yandex Safe",
+    "dns1": "77.88.8.88",
+    "dns2": "77.88.8.2",
+    "predefined": true
+  },
+  {
+    "name": "Comodo Secure",
+    "dns1": "8.26.56.26",
+    "dns2": "8.20.247.20",
+    "predefined": true
+  },
+  {
+    "name": "CleanBrowsing Secure",
+    "dns1": "185.228.168.9",
+    "dns2": "185.228.169.9",
+    "predefined": true
+  },
+  {
+    "name": "NeustarThreat Protection",
+    "dns1": "156.154.70.2",
+    "dns2": "156.154.71.2",
+    "predefined": true
   }
 ]
+
