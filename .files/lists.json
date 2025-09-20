@@ -1,11 +1,5 @@
 [
   {
-    "name": "Default (ISP DNS)",
-    "dns1": "",
-    "dns2": "",
-    "predefined": true
-  },
-  {
     "name": "Shecan",
     "dns1": "178.22.122.100",
     "dns2": "185.51.200.2",
