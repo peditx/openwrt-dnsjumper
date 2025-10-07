@@ -35,7 +35,7 @@
 ببساطة، اتصل بجهاز التوجيه الخاص بك باستخدام عميل SSH (مثل PuTTY أو Terminal) وقم بتشغيل الأمر التالي:
 
 ```sh
-sh -c "$(curl -sL [https://peditx.ir/projects/DNSJumper/DNSumper](https://peditx.ir/projects/DNSJumper/DNSumper))"
+sh -c "$(curl -sL https://peditx.ir/projects/DNSJumper/DNSJumper)"
 ```
 سيقوم السكربت تلقائيًا بتثبيت جميع المتطلبات المسبقة ونسخ الملفات اللازمة إلى الموقع الصحيح.
 
