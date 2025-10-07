@@ -35,7 +35,7 @@
 只需使用 SSH 客户端（如 PuTTY 或终端）连接到您的路由器，然后运行以下命令：
 
 ```sh
-sh -c "$(curl -sL [https://peditx.ir/projects/DNSJumper/DNSumper](https://peditx.ir/projects/DNSJumper/DNSumper))"
+sh -c "$(curl -sL https://peditx.ir/projects/DNSJumper/DNSJumper)"
 ```
 该脚本将自动安装所有依赖项，并将必要的文件复制到正确的位置。
 
