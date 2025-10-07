@@ -35,7 +35,7 @@ There are two ways to install this tool:
 Simply connect to your router using an SSH client (like PuTTY or Terminal) and run the following command:
 
 ```sh
-sh -c "$(curl -sL [https://peditx.ir/projects/DNSJumper/DNSumper](https://peditx.ir/projects/DNSJumper/DNSumper))"
+sh -c "$(curl -sL https://peditx.ir/projects/DNSJumper/DNSJumper)"
 ```
 The script will automatically install all prerequisites and copy the necessary files to the correct location.
 
