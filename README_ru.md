@@ -35,7 +35,7 @@
 Просто подключитесь к вашему роутеру с помощью SSH-клиента (например, PuTTY или Terminal) и выполните следующую команду:
 
 ```sh
-sh -c "$(curl -sL [https://peditx.ir/projects/DNSJumper/DNSumper](https://peditx.ir/projects/DNSJumper/DNSumper))"
+sh -c "$(curl -sL https://peditx.ir/projects/DNSJumper/DNSJumper)"
 ```
 Скрипт автоматически установит все зависимости и скопирует необходимые файлы в нужную директорию.
 
