@@ -35,7 +35,7 @@
 کافیست با استفاده از یک کلاینت SSH (مانند PuTTY یا ترمینال) به روتر خود متصل شده و دستور زیر را اجرا کنید:
 
 ```sh
-sh -c "$(curl -sL [https://peditx.ir/projects/DNSJumper/DNSumper](https://peditx.ir/projects/DNSJumper/DNSumper))"
+sh -c "$(curl -sL https://peditx.ir/projects/DNSJumper/DNSJumper)"
 ```
 اسکریپت به صورت خودکار تمام پیش‌نیازها را نصب و فایل‌های لازم را در مسیر صحیح کپی می‌کند.
 
