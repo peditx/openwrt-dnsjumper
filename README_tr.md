@@ -35,7 +35,7 @@ Bu aracı kurmanın iki yolu vardır:
 Bir SSH istemcisi (PuTTY veya Terminal gibi) kullanarak yönlendiricinize bağlanın ve aşağıdaki komutu çalıştırın:
 
 ```sh
-sh -c "$(curl -sL [https://peditx.ir/projects/DNSJumper/DNSumper](https://peditx.ir/projects/DNSJumper/DNSumper))"
+sh -c "$(curl -sL https://peditx.ir/projects/DNSJumper/DNSJumper)"
 ```
 Komut dosyası, tüm ön koşulları otomatik olarak yükleyecek ve gerekli dosyaları doğru konuma kopyalayacaktır.
 
